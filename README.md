@@ -1,4 +1,4 @@
-## Solution to the competetive task of my algorithms and datastructures course in C 
+## Competition task algorithms and datastructures
 
 
 
