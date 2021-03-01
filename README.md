@@ -47,8 +47,8 @@ The task is evaluated in the competition mode. This means that it is more demand
 +--+--+--+--+--+
 ~~~
 #### Output
-One Answer:
 ~~~
+One Answer:
 +--+--+--+--+--+
 | 2| 3      | 2|
 +  +--+--+--+  +
